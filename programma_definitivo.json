@@ -124,11 +124,11 @@
             },
             "pomeriggio_leonardo": {
                 "chi_andata": "\ud83d\udfe2 GENITORI",
-                "chi_ritorno": "\ud83d\udd34 NONNI",
+                "chi_ritorno": "\ud83d\udfe2 GENITORI",
                 "cosa": "Eufonio \ud83c\udfba",
                 "inizio": "",
                 "fine": "18:00",
-                "dove_ritorno": "Casa Nonni \ud83c\udfe1"
+                "dove_ritorno": "Casa Nostra \ud83c\udfe0"
             },
             "sara_uguale": false,
             "pomeriggio_sara": {
