@@ -5,7 +5,6 @@
                 "chi": "\ud83d\udfe2 GENITORI",
                 "cosa": "Scuola \ud83c\udfeb"
             },
-            "sara_uguale": false,
             "pomeriggio_leonardo": {
                 "chi_andata": "\ud83d\udfe2 GENITORI",
                 "chi_ritorno": "\ud83d\udfe2 GENITORI",
@@ -14,6 +13,7 @@
                 "fine": "18:30",
                 "dove_ritorno": "Casa Nostra \ud83c\udfe0"
             },
+            "sara_uguale": false,
             "pomeriggio_sara": {
                 "chi_andata": "\ud83d\udfe2 GENITORI",
                 "chi_ritorno": "\ud83d\udfe2 GENITORI",
