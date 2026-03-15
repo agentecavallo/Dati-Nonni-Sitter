@@ -290,5 +290,29 @@
             "dove_ritorno": "Casa Nostra \ud83c\udfe0"
         },
         "note": ""
+    },
+    "2026-03-16": {
+        "mattina": {
+            "chi": "\ud83d\udfe2 GENITORI",
+            "cosa": "Scuola \ud83c\udfeb"
+        },
+        "pomeriggio_leonardo": {
+            "chi_andata": "\ud83d\udfe2 GENITORI",
+            "chi_ritorno": "\ud83d\udfe2 GENITORI",
+            "cosa": "Eufonio \ud83c\udfba",
+            "inizio": "",
+            "fine": "18:00",
+            "dove_ritorno": "Casa Nostra \ud83c\udfe0"
+        },
+        "sara_uguale": false,
+        "pomeriggio_sara": {
+            "chi_andata": "\ud83d\udfe2 GENITORI",
+            "chi_ritorno": "\ud83d\udd34 NONNI",
+            "cosa": "Scuola \ud83c\udfeb",
+            "inizio": "",
+            "fine": "16:00",
+            "dove_ritorno": "Casa Nonni \ud83c\udfe1"
+        },
+        "note": ""
     }
 }
