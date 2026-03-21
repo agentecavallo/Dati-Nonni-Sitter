@@ -458,5 +458,29 @@
             "dove_ritorno": "Casa Nostra \ud83c\udfe0"
         },
         "note": ""
+    },
+    "2026-03-26": {
+        "mattina": {
+            "chi": "\ud83d\udd34 NONNI",
+            "cosa": "Scuola \ud83c\udfeb"
+        },
+        "pomeriggio_leonardo": {
+            "chi_andata": "\ud83d\udfe2 GENITORI",
+            "chi_ritorno": "\ud83d\udd34 NONNI",
+            "cosa": "Scuola \ud83c\udfeb",
+            "inizio": "",
+            "fine": "",
+            "dove_ritorno": "Lavoro Mamma \ud83d\udcbc"
+        },
+        "sara_uguale": true,
+        "pomeriggio_sara": {
+            "chi_andata": "\ud83d\udfe2 GENITORI",
+            "chi_ritorno": "\ud83d\udd34 NONNI",
+            "cosa": "Scuola \ud83c\udfeb",
+            "inizio": "",
+            "fine": "",
+            "dove_ritorno": "Lavoro Mamma \ud83d\udcbc"
+        },
+        "note": "Michele si opera e deve essere in ospedale per le 8:00 quindi vi aspettiamo massimo per le 7:00 per partire con un po' di anticipo"
     }
 }
