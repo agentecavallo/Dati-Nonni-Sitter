@@ -410,5 +410,29 @@
             "dove_ritorno": "Casa Nostra \ud83c\udfe0"
         },
         "note": "Causa chiusura scuola ve li porta Michele entro le 8:30"
+    },
+    "2026-03-24": {
+        "mattina": {
+            "chi": "\ud83d\udfe2 GENITORI",
+            "cosa": "Scuola \ud83c\udfeb"
+        },
+        "pomeriggio_leonardo": {
+            "chi_andata": "\ud83d\udfe2 GENITORI",
+            "chi_ritorno": "\ud83d\udfe2 GENITORI",
+            "cosa": "Ginnastica Artistica \ud83e\udd38\u200d\u2640\ufe0f",
+            "inizio": "17:00",
+            "fine": "18:30",
+            "dove_ritorno": "Casa Nostra \ud83c\udfe0"
+        },
+        "sara_uguale": true,
+        "pomeriggio_sara": {
+            "chi_andata": "\ud83d\udfe2 GENITORI",
+            "chi_ritorno": "\ud83d\udfe2 GENITORI",
+            "cosa": "Ginnastica Artistica \ud83e\udd38\u200d\u2640\ufe0f",
+            "inizio": "16:30",
+            "fine": "17:30",
+            "dove_ritorno": "Casa Nostra \ud83c\udfe0"
+        },
+        "note": "Causa chiusura scuola seggio elettorale Michele ve li porta entro le 8:30"
     }
 }
